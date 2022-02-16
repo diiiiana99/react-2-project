@@ -1,9 +1,36 @@
+// import React from 'react';
+// import styled from 'styled-components'
+// import {Link} from 'react-router-dom'
 
+// const Nav = styled.nav`
+// height:60px;
+// background:red;
+// `;
 
+// const Logo=styled(Link)`
+// color:white;
+// `;
+
+// const MenuBar= styled.i``
+// const NavMenu = styled.div``
+// const Navbar = () => {
+//   return(
+//     <Nav>
+//       <Logo>Elixr</Logo>
+//       <MenuBar/>
+//       <NavMenu>
+
+//       </NavMenu>
+//       <h1>Navbar</h1>  
+//         </Nav>
+//   )
+// }
+// export default Navbar
 import React, { useState, useEffect } from 'react';
 import { Button } from './Button';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
+
 
 function Navbar() {
   const [click, setClick] = useState(false);

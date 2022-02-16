@@ -1,0 +1,106 @@
+{
+    "employees": [
+    {
+        "id": 1,
+        "location": "46 West 89th Street, Garden",
+        "area":"Upper West Side, Manhattan, NY 10022",
+        "desc": "FOR RENT | 3 BEDS | 3 BATHS | APARTMENT BUILDING",
+        "details": "BRAND NEW RENOVATION! 3 bedroom with 2 FULL BathroomsMurray Hill/Kips BayWasher and dryerStainless steel kitchen with dishwasher and wine fridgeMarble counter tops with breakfast bar3 Queen size bedrooms each with closetsLarge living room with two closets Separate abundant storage spacesOne flight up",
+        "price": "$11,250",
+        "available": "Available 03/01/22",
+         "image": "https://images.unsplash.com/photo-1465637735148-7a30f47f5b2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fG1hbmhhdHRhbiUyMGFwYXJ0bWVudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+         "link": "https://www.corcoran.com/homes-for-rent/46-west-89th-street-garden-manhattan-ny-10024/20680658/regionId=1"
+    },
+    {
+        "id": 2,
+        "location": "331 East 33rd Street, 2C",
+        "area":"Kips Bay, Manhattan, NY 10016",
+        "desc": "FOR RENT | 3 BEDS | 2 BATHS | CONDOP",
+        "details": "BRAND NEW RENOVATION! 3 bedroom with 2 FULL BathroomsMurray Hill/Kips BayWasher and dryerStainless steel kitchen with dishwasher and wine fridgeMarble counter tops with breakfast bar3 Queen size bedrooms each with closetsLarge living room with two closetsSeparate abundant storage spacesOne flight up",
+        "price": "$4,875",
+        "available": "Available 03/01/22",
+         "image": "https://images.unsplash.com/photo-1512621480870-77463b1b90c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fG1hbmhhdHRhbiUyMGFwYXJ0bWVudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+         "link": "https://www.corcoran.com/homes-for-rent/331-east-33rd-street-2c-manhattan-ny-10016/21599991/regionId=1"
+    },
+    {
+        "id": 3,
+        "location": "53 East 97th Street, 6D",
+        "area":"Carnegie Hill, Manhattan, NY 10029",
+        "desc": "FOR RENT | 2 BEDS | 2 BATHS | APARTMENT BUILDING",
+        "details": "FOR RENT | 2 BEDS | 2 BATHS | APARTMENT BUILDING",
+        "price": "$4,250",
+        "available": "Available 03/01/22",
+         "image": "https://images.unsplash.com/photo-1601139677781-be17df6fe29e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fG1hbmhhdHRhbiUyMGFwYXJ0bWVudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+         "link": "https://www.corcoran.com/homes-for-rent/53-east-97th-street-6d-manhattan-ny-10029/21599616/regionId=1"
+    },
+    {
+        "id": 4,
+        "location": "75 Cabrini Boulevard, 35",
+        "area":"Washington Heights, Manhattan, NY 10033 ",
+        "desc": "FOR RENT | 1 BED | 1 BATH | APARTMENT BUILDING",
+        "price": "$1,650",
+        "available": "Available 03/01/22",
+         "image": "https://images.unsplash.com/photo-1551009612-3093d2e394ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fG1hbmhhdHRhbiUyMGFwYXJ0bWVudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+         "link": "https://www.corcoran.com/homes-for-rent/75-cabrini-boulevard-35-manhattan-ny-10033/21571439/regionId=1"
+    },
+    {
+        "id": 5,
+        "location": "235 West 56th Street, 31A",
+        "area":"Symphony House, Midtown West, Manhattan, NY 10019",
+        "desc": "FOR RENT | 1 BATH | APARTMENT BUILDING",
+        "price": "$3,430",
+        "available": "Available 02/25/22",
+         "image": "https://images.unsplash.com/photo-1591096490931-c07a285f8068?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1hbmhhdHRhbiUyMGFwYXJ0bWVudHN8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+         "link": "https://www.corcoran.com/homes-for-rent/235-west-56th-street-31a-manhattan-ny-10019/21587262/regionId=1"
+    },
+    {
+        "id": 6,
+        "location": "330 East 38th Street, 56A",
+        "area":"The Corinthian, Murray Hill, Manhattan, NY 10016",
+        "desc": "FOR RENT | 1 BED | 2 BATHS | CONDO        ",
+        "price": "$5,500",
+        "available": "Available 04/01/22",
+         "image": "https://media.istockphoto.com/photos/beautifully-decorated-loft-apartment-picture-id1367653962?k=20&m=1367653962&s=612x612&w=0&h=SslF8JN2nkUBiL0O-39VU-XTTDyDP50CY7bTUZWOdng=",
+         "link": "https://www.corcoran.com/homes-for-rent/330-east-38th-street-56a-manhattan-ny-10016/21557840/regionId=1"
+    },
+     {
+        "id": 7,
+        "location": "38 Morton Street, 2A",
+        "area":"FOR RENT | 1 BED | 1 BATH | APARTMENT BUILDING",
+        "desc": "FOR RENT | 3 BEDS | 3 BATHS | APARTMENT BUILDING",
+        "price": "$$3,750",
+        "available": "Available 04/01/22",
+         "image": "https://media.istockphoto.com/photos/studio-apartment-in-new-york-city-picture-id105944847?k=20&m=105944847&s=612x612&w=0&h=XLREkjOywkes3q1UN08Y-xDEAvzTQuWhUBtjWmt9dt0=",
+         "link": "https://www.corcoran.com/homes-for-rent/38-morton-street-2a-manhattan-ny-10014/21598914/regionId=1"
+    },
+    {
+        "id": 8,
+        "location": "60 West 142nd Street, 17P",
+        "area":"Upper West Side, Manhattan, NY 10022",
+        "desc": "FOR RENT | 1 BED | 1 BATH | APARTMENT BUILDING",
+        "price": "$2,295",
+        "available": "Available 03/01/22",
+         "image": "https://media.istockphoto.com/photos/multiple-screens-in-a-living-room-picture-id1161183415?k=20&m=1161183415&s=612x612&w=0&h=VYqpJvlvTzurtssXX-WAbV3YiB97HEc1adLoVC7F8LI=",
+         "link": "https://www.corcoran.com/homes-for-rent/60-west-142nd-street-17p-manhattan-ny-10037/21519964/regionId=1"
+    },
+    {
+        "id": 9,
+        "location": "675 West 59th Street, 510",
+        "area":"One Waterline Square, Upper West Side, Manhattan, NY 10069",
+        "desc": "FOR RENT | 2 BEDS | 2 BATHS | CONDO",
+        "price": "$10,000",
+        "available": "Available Immediately",
+         "image": "https://media.istockphoto.com/photos/modern-office-lobby-interior-with-large-blank-blackboard-picture-id1136436776?k=20&m=1136436776&s=612x612&w=0&h=KMkjM5iQ3gFgpMOsI3_g3k-988IuzfVHpAFwr19P3QM=",
+         "link": "https://www.corcoran.com/homes-for-rent/675-west-59th-street-510-manhattan-ny-10069/21599872/regionId=1"
+    },
+    {
+        "id": 10,
+        "location": "330 West 11th Street, Ch",
+        "area":"West Village, Manhattan, NY 10014",
+        "desc": "FOR RENT | 1 BED | 1 BATH | APARTMENT BUILDING",
+        "price": "$6,000",
+        "available": "Available 03/01/22",
+         "image": "https://res.cloudinary.com/corcoran-dryrmqrbg/image/upload/f_auto,q_auto,c_scale,dpr_auto,w_1600/ListingFullAPI/NewTaxi/7526468/mediarouting.vestahub.com/Media/131509098.jpg",
+         "link": "https://www.corcoran.com/homes-for-rent/330-west-11-th-street-ch-manhattan-ny-10014/21563105/regionId=1"
+    }
+}
