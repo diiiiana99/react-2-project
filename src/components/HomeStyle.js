@@ -5,16 +5,16 @@ import "./HomeStyle.css";
 
 function HomeStyle() {
     return (
-    <div className="service-features">
+    <div className="">
         <h1>We are the leader in new developments.</h1>
         <p class="desc">
-        Browse our collection of exceptional new and upcoming residential
-        developments.
+          Browse our collection of exceptional new and upcoming residential
+          developments.
         </p>
-    <div class="homes-wrapper">
+    <div class="">
         <div class="home-card">
-            <div class="title">
-            <h2 >CENTRAL PARK TOWER</h2>
+        <div class="title">
+        <h2 >CENTRAL PARK TOWER</h2>
     </div>
         <div class="home1">
             <p >217 WEST 57TH ST, Midtown West, Other, NY.</p>
