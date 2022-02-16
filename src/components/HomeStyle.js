@@ -5,50 +5,32 @@ import "./HomeStyle.css";
 
 function HomeStyle() {
     return (
-    <div className="">
+    <div className="section">
         <h1>We are the leader in new developments.</h1>
-        <p class="desc">
-          Browse our collection of exceptional new and upcoming residential
-          developments.
-        </p>
-    <div class="">
-        <div class="home-card">
-        <div class="title">
-        <h2 >CENTRAL PARK TOWER</h2>
-    </div>
-        <div class="home1">
-            <p >217 WEST 57TH ST, Midtown West, Other, NY.</p>
-            <p >NEW DEVEOPMENT CONDOMINIUM</p>
-            <p>Occupcancy: Immediate</p>
-            <img 
-            src="https://images.unsplash.com/photo-1614002128779-35f1ffaa5b50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG55YyUyMGhpZ2glMjByaXNlfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=400&q=60" alt="hi"></img>
-        </div>
-    <div class="home-card">
-        <div class="title">
-            <h2>35 HUDSON YARDS</h2>
-    </div>
-        <div class="home1">
-            <p>35 HUDSON YARDS, Chelsea/Hudson Yards, Manhattan, NY.</p>
-            <p>NEW DEVEOPMENT CONDOMINIUM</p>
-            <p>Occupcancy: Immediate</p>
-            <img
-                src="https://images.unsplash.com/photo-1614002128779-35f1ffaa5b50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG55YyUyMGhpZ2glMjByaXNlfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=400&q=60"alt="hi"></img>
-        </div>
-    </div>
-        <div class="home-card">
-            <div class="title">
+        <p class="desc">Browse our collection of exceptional new and upcoming residential developments.</p>
+        <h2>CENTRAL PARK TOWER</h2>
+        <div className="card-container">
+            <div class="home1">
+                <p>217 WEST 57TH ST, Midtown West, Other, NY.</p>
+                <p>NEW DEVEOPMENT CONDOMINIUM</p>
+                <p>Occupcancy: Immediate</p>
+                <img src="https://images.unsplash.com/photo-1614002128779-35f1ffaa5b50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG55YyUyMGhpZ2glMjByaXNlfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=400&q=60" alt="hi"></img>
+            </div>
+            <div class="home-card">
+                <h2>35 HUDSON YARDS</h2>
+                <p>35 HUDSON YARDS, Chelsea/Hudson Yards, Manhattan, NY.</p>
+                <p>NEW DEVEOPMENT CONDOMINIUM</p>
+                <p>Occupcancy: Immediate</p>
+                <img src="https://images.unsplash.com/photo-1614002128779-35f1ffaa5b50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG55YyUyMGhpZ2glMjByaXNlfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=400&q=60"alt="hi"></img>
+            </div>
+            <div class="home-card">
                 <h2>130 WILLIAM</h2>
-    </div>
-        <div class="home1">
-            <p>130 WILLIAM ST, Financial District, Manhattan, NY</p>
-            <p>NEW DEVEOPMENT CONDOMINIUM</p>
-            <p>Occupcancy: Immediate</p>
-            <img
-            src="https://images.unsplash.com/photo-1629263937997-f89f44b4108e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bnljJTIwYnVpbGRpbmd8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"alt="hi"></img>
-                </div>
+                <p>130 WILLIAM ST, Financial District, Manhattan, NY</p>
+                <p>NEW DEVEOPMENT CONDOMINIUM</p>
+                <p>Occupcancy: Immediate</p>
+                <img src="https://images.unsplash.com/photo-1629263937997-f89f44b4108e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bnljJTIwYnVpbGRpbmd8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"alt="hi"></img>
             </div>
         </div>
-    </div>
 </div>
 );
 }
