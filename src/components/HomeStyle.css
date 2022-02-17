@@ -1,33 +1,22 @@
-
-.service-features {
-    background: black;
-    color: white;
-    padding:6rem calc((100vw - 1200px) / 2);
-    text-align:center;
-}
-
-.service-features h1 {
-    margin-bottom: 1rem;
-    font-size: clamp(2rem, 5vw, 3rem);
-    padding: 0 1rem;
-    color: white;  
-}
-.desc {
-    margin-top: 3rem;
-    font-size: clamp(1rem, 3vw, 1.5rem);
-    padding: 0 1rem;  
-}
-.homes-wrapper {
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-start;
-    padding: 1rem;
-}
-
 .section {
     background-color: rgb(0, 0, 0.11);
 }
 
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    animation: fadeIn 1s ease;
+    position: relative;
+}
+
+.modal {
+    height: 50%;
+    width: 50%;
+
+}
+.button-card:hover {
+    color: red;
+}
 .home-card {
     width: 325px;
     background: transparent;
@@ -37,28 +26,44 @@
     justify-content: space-between;
     font-size: 18px;
     display: flex;
-    align-items: flex-start;
+ 
+   align-items: flex-start;
     flex-direction: column;
     padding: 1rem;
+    
+
 }
-.home1 {
-    min-height: 150px;
-}
-.home1 p {
-    margin-bottom: 1rem;
-}
+    flex-direction:row; 
 @media screen and (min-width: 1100px) {
-    .homes-wrapper {
-        flex-direction: column;
-        align-items: center;
-        width: 100%;
-        margin-bottom: 2rem;
+    .card-container{
+        
     }
+    
     .home-card {
         width: 90%;
         margin-bottom: 2rem;
     }
 }
+/* Attach fadeIn to whatever HTML/CSS elements & classes it should operate on */
+@keyframes fadeIn { /* fadeIn is the name of the animation */
+    from { /* how the animation starts */
+      opacity: 0;
+      transform: scale(0.1);
+      bottom: -500px;
+      background: red;
+      
+    }
+
+    to { /* how the animation ends */
+      opacity: 1;
+      transform: scale(1);
+      bottom: 0;
+      background:black;
+     
+    }
+  }display: fl
 
 
-
+flex;
+        flex-direction: row;
+        flex-rapwrwrap: nowrap;

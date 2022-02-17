@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Route, Switch} from "react-router-dom"
 import Home from './components/Home';
 import Agents from './components/Agents';
+import EmailSection from './components/EmailSection'
 
 // matthew@bluecore.com
 
@@ -17,6 +18,7 @@ function App() {
       {/* <Route path='/'> <Redirect to="/home" /> </Route> */}
       <Route path='/home'><Home /> </Route>
       <Route path='/agents'><Agents /></Route>
+      <Route path='/form'><EmailSection/></Route>
     
       </Switch>
      </Router>

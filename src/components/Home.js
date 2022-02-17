@@ -1,8 +1,10 @@
 import React from 'react'
 import HeroSection from './HeroSection'
 import HomeStyle from './HomeStyle.js'
-// import EmailSection from './EmailSection.js'
+import EmailSection from './EmailSection.js'
 import Footer from './Footer.js'
+
+
 
 
 
@@ -15,7 +17,10 @@ function Home() {
       <HeroSection/>
       <HomeStyle/>
       <Footer/>
-      {/* <EmailSection/> */}
+      {/* <Form/> */}
+
+
+      <EmailSection/>
 
      </>
       
